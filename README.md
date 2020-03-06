@@ -1,1 +1,1 @@
-# Titanic-Survival-prediction
+-Predicts survival of passengers of Titanic
